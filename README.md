@@ -76,8 +76,8 @@ from the Printables page into `docs/images/build/`.
 place with a lot of hot glue. This project rebuilds it with a proper printed frame.
 
 <p align="center">
-  <img src="docs/images/build/original-1.webp" width="40%" />
-  <img src="docs/images/build/original-2.webp" width="40%" />
+  <img src="docs/images/bilder/original-1.webp" width="40%" />
+  <img src="docs/images/bilder/original-2.webp" width="40%" />
 </p>
 
 **Making** — main frame with a back panel and a swappable front panel. A sheet of
@@ -85,15 +85,15 @@ plain paper between front and back hides the dark segments of the display. Front
 back panel hold with a friction fit, no fasteners needed.
 
 <p align="center">
-  <img src="docs/images/build/making-1.webp" width="32%" />
-  <img src="docs/images/build/making-2.webp" width="32%" />
-  <img src="docs/images/build/making-3.png" width="32%" />
+  <img src="docs/images/bilder/making-1.webp" width="32%" />
+  <img src="docs/images/bilder/making-2.webp" width="32%" />
+  <img src="docs/images/bilder/making-3.png" width="32%" />
 </p>
 
 **Soldering** — only 5 wires of about 5 cm between the ESP8266 and the display.
 
 <p align="center">
-  <img src="docs/images/build/soldering.webp" width="80%" />
+  <img src="docs/images/bilder/soldering.webp" width="80%" />
 </p>
 
 Full description and gallery on the [Printables model page](https://www.printables.com/model/1790108-printablesyoutube-play-button-counter).
