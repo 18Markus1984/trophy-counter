@@ -1,0 +1,15 @@
+# Arduino build artifacts
+build/
+*.hex
+*.bin
+*.elf
+
+# Local secrets — never commit real keys
+secrets.h
+*.local
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
