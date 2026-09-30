@@ -67,6 +67,37 @@ Print the base/back in a solid opaque color so the display light only shines thr
 the number window and not through the whole surface. A sheet of plain paper between
 the front and back panel diffuses the light and hides the dark segments of the display.
 
+## Build
+
+Run `fetch_images.bat` (Windows, double-click) once to download the build photos
+from the Printables page into `docs/images/build/`.
+
+**The original version** — the first counter lived in an old picture frame, held in
+place with a lot of hot glue. This project rebuilds it with a proper printed frame.
+
+<p align="center">
+  <img src="docs/images/build/original-1.webp" width="40%" />
+  <img src="docs/images/build/original-2.webp" width="40%" />
+</p>
+
+**Making** — main frame with a back panel and a swappable front panel. A sheet of
+plain paper between front and back hides the dark segments of the display. Front and
+back panel hold with a friction fit, no fasteners needed.
+
+<p align="center">
+  <img src="docs/images/build/making-1.webp" width="32%" />
+  <img src="docs/images/build/making-2.webp" width="32%" />
+  <img src="docs/images/build/making-3.png" width="32%" />
+</p>
+
+**Soldering** — only 5 wires of about 5 cm between the ESP8266 and the display.
+
+<p align="center">
+  <img src="docs/images/build/soldering.webp" width="80%" />
+</p>
+
+Full description and gallery on the [Printables model page](https://www.printables.com/model/1790108-printablesyoutube-play-button-counter).
+
 ## Firmware
 
 ### Libraries
