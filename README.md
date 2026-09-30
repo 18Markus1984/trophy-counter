@@ -8,7 +8,7 @@ side by side.
 The number is not printed on paper — it glows through the cover sheet from a real
 display and updates itself over WiFi.
 
-![Cover](docs/images/cover.jpg)
+![Trophy Counter](docs/images/hero-dark.png)
 
 ## How it works
 
